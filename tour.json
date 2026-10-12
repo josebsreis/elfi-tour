@@ -3204,8 +3204,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-2fea6e6e",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -3282,8 +3282,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-0de67b67",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -3409,8 +3409,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-34655f0a",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -3536,8 +3536,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-34655f0a",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -3614,8 +3614,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-9d98b37b",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -3741,8 +3741,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-58e5ebf6",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -3868,8 +3868,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-58e5ebf6",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -3946,8 +3946,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-e896fd6e",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -4073,8 +4073,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-672d84ea",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -4229,8 +4229,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-35a6837f",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -4356,8 +4356,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-d4924225",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -4483,8 +4483,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-d4924225",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -4561,8 +4561,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-74d8e9ac",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -4688,8 +4688,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-57ec65d7",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -4815,8 +4815,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-57ec65d7",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -4893,8 +4893,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-cde4edc1",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -5098,8 +5098,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-ac552e95",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -5176,8 +5176,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-9eb49d1d",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -5254,8 +5254,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-24d1c5e7",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
@@ -5332,8 +5332,8 @@
                       "type": "goto",
                       "targetSceneId": "scene-8fd328b0",
                       "transition": {
-                        "kind": "zoom-blend",
-                        "durationMs": 1100
+                        "kind": "fade",
+                        "durationMs": 400
                       }
                     }
                   ]
